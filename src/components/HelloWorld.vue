@@ -60,8 +60,8 @@ export default {
   }
   .buttonHolder {
     display: flex;
-    position: absolute;
-    bottom: 13vh;
+    position: relative;
+    top: 32vh;
   }
   .active {
     background-color: lightgrey;
