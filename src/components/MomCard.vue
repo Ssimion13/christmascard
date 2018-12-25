@@ -8,16 +8,16 @@
       <div class="paragraph">
         I want to wish a Merry Christmas to the best mom in the world. I really want to thank you Mom for all the support you've given me
         my whole life. You always have my back when there's a problem, you always support me (even if it means saying something I don't want to hear!), and you've
-        always made it very clear that I am loved. You've been the best support I could ever ask for, and I hope one day I can repay the kindness and support
-        you've given me.  I might not always show it, but I always appreciate the advice you give me, and I know that no matter what the problem I might face, my mom 
+        always made it very clear that I am loved. You've been the best support I could ever ask for, and I hope one day I can pay your kindness forward to my kids.
+        I might not always show it, but I always appreciate the advice you give me, and I know that no matter what the problem I might face, my mom 
         will always be there to help me out, and for that, I am eternally grateful.
         <br/>
         <br/>
       </div>
       <div class="paragraph">
-          I'll be leaving this house soon after you receive this, and I will dearly miss your cooking (yes, I'm serious, though I wish you used less peppers!) and 
+          I'll be leaving this house soon, and I will dearly miss your cooking (though I wish you used less peppers!) and 
         all the things you have done to make my life easier. I'm so very blessed to have had a chance to bond with you more in this last year, be it crossword puzzles,
-        talking in the living room, watching movies, or <i> agh </i> you trying to find me a wife; you're a great person and I really enjoy spending time with you (when you're not lecturing me :p)
+        talking in the living room, watching movies, or <i> agh </i> you trying to find me a wife; you're a great person and I really enjoy spending time with you. 
         Merry Christmas, Mom, and thank you.
 
         <br/>
